@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -u
 set -o pipefail
-
+# Created by Adam Zimmel - W0ZML amd Aiden Schramm - W0MOD
 # Designed for an 80x24 VT102-compatible display.
 # Usage: ./ardc_vt102_port_8n1.sh [/dev/ttyUSBx]
 PORT="${1:-/dev/ttyUSB1}"
