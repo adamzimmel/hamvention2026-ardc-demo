@@ -1,8 +1,6 @@
 The Hamvention 2026 ARDC demo used a restored VT102 terminal to showcase ARDC's funded grants in 2025 as well as some 44net facts. 
 
-Created by: 
-Adam Zimmel W0ZML
-Aiden Schramm W0MOD
+Created by Adam Zimmel W0ZML and Aiden Schramm W0MOD
 
 https://github.com/user-attachments/assets/3f96376c-6212-45bb-94ba-fb382d861e0b
 
